@@ -1,0 +1,18 @@
+{
+  "id": 777,
+  "category": {
+    "id": 777,
+    "name": "Yuki"
+  },
+  "name": "Yuki",
+  "photoUrls": [
+    "https://www.shutterstock.com/pt/image-photo/happy-puppy-dog-smiling-on-isolated-1799966587"
+  ],
+  "tags": [
+    {
+      "id": 777,
+      "name": "Yuki"
+    }
+  ],
+  "status": "inactive"
+}
